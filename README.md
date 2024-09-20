@@ -10,6 +10,5 @@ write to mail a.gorbatkov02@mail.ru
 
 - My Projects
 1. https://ictis.netlify.app (Production) (150 unique users daily) 
-2. https://arentum.netlify.app/ (Stopped) (In private repo)
-3. https://taskolist.netlify.app (Production)
-4. https://main--timely-swan-4a8a1e.netlify.app (Production)
+2. https://taskolist.netlify.app (Production)
+3. https://main--timely-swan-4a8a1e.netlify.app (Production)
